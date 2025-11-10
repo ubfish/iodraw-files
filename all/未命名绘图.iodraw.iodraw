@@ -7,8 +7,8 @@
         <mxCell id="EzpC3BM7lSgei0_ttPen-1" value="开始烹饪番茄炒蛋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="107" y="20" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="EzpC3BM7lSgei0_ttPen-2" value="准备食材: 鸡蛋, 番茄, 葱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="237" height="48" as="geometry" />
+        <mxCell id="EzpC3BM7lSgei0_ttPen-2" value="准备食材: 鸡蛋, 番茄," style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="110" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EzpC3BM7lSgei0_ttPen-3" value="鸡蛋打散备用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="156" height="48" as="geometry" />
