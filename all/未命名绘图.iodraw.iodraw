@@ -46,9 +46,6 @@
         <mxCell id="EzpC3BM7lSgei0_ttPen-14" value="加入盐， 糖调味" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="112" y="1201" width="178" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="EzpC3BM7lSgei0_ttPen-15" value="撒上葱花" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="138" y="1299" width="126" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="EzpC3BM7lSgei0_ttPen-16" value="出锅装盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="139" y="1398" width="125" height="48" as="geometry" />
         </mxCell>
@@ -133,14 +130,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EzpC3BM7lSgei0_ttPen-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-14" target="EzpC3BM7lSgei0_ttPen-15">
+        <mxCell id="EzpC3BM7lSgei0_ttPen-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="EzpC3BM7lSgei0_ttPen-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EzpC3BM7lSgei0_ttPen-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-15" target="EzpC3BM7lSgei0_ttPen-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="201" y="1347" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EzpC3BM7lSgei0_ttPen-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-16" target="EzpC3BM7lSgei0_ttPen-17">
