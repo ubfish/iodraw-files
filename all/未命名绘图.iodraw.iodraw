@@ -1,0 +1,154 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="lFHehbmvRF0rAcfcgkuD">
+    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EzpC3BM7lSgei0_ttPen-1" value="开始烹饪番茄炒蛋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="107" y="20" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-2" value="准备食材: 鸡蛋, 番茄, 葱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="237" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-3" value="鸡蛋打散备用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="217" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-4" value="番茄洗净切块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="217" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-5" value="热锅下油" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="315" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-6" value="倒入蛋液" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="414" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-7" value="快速炒散至凝固" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="512" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-8" value="盛出炒蛋备用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="610" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-9" value="锅中补少许油" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="709" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-10" value="下番茄块翻炒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="807" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-11" value="炒至番茄变软出汁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="107" y="906" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-12" value="倒入炒好的鸡蛋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1004" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-13" value="混合翻炒均匀" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="1102" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-14" value="加入盐， 糖调味" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="112" y="1201" width="178" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-15" value="撒上葱花" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="138" y="1299" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-16" value="出锅装盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="1398" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-17" value="结束， 享用美食" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="112" y="1496" width="178" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-1" target="EzpC3BM7lSgei0_ttPen-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-2" target="EzpC3BM7lSgei0_ttPen-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-2" target="EzpC3BM7lSgei0_ttPen-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-3" target="EzpC3BM7lSgei0_ttPen-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-4" target="EzpC3BM7lSgei0_ttPen-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-5" target="EzpC3BM7lSgei0_ttPen-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-6" target="EzpC3BM7lSgei0_ttPen-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-7" target="EzpC3BM7lSgei0_ttPen-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-8" target="EzpC3BM7lSgei0_ttPen-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-9" target="EzpC3BM7lSgei0_ttPen-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-10" target="EzpC3BM7lSgei0_ttPen-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-11" target="EzpC3BM7lSgei0_ttPen-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-12" target="EzpC3BM7lSgei0_ttPen-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-13" target="EzpC3BM7lSgei0_ttPen-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-14" target="EzpC3BM7lSgei0_ttPen-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-15" target="EzpC3BM7lSgei0_ttPen-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzpC3BM7lSgei0_ttPen-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EzpC3BM7lSgei0_ttPen-16" target="EzpC3BM7lSgei0_ttPen-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
