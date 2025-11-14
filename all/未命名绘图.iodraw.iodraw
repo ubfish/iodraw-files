@@ -5,52 +5,52 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-e7ZAQbZGbHE_bvblTF--1" value="开始烹饪番茄炒蛋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="107" y="210" width="188" height="48" as="geometry" />
+          <mxGeometry x="337" y="220" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--2" value="准备食材: 鸡蛋, 番茄" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="97" y="308" width="209" height="48" as="geometry" />
+          <mxGeometry x="327" y="318" width="209" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--3" value="鸡蛋打散备用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="407" width="156" height="48" as="geometry" />
+          <mxGeometry x="171" y="460" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--4" value="番茄洗净切块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="226" y="407" width="157" height="48" as="geometry" />
+          <mxGeometry x="600" y="467" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--5" value="热锅下油" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="139" y="505" width="124" height="48" as="geometry" />
+          <mxGeometry x="369" y="515" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--6" value="倒入蛋液" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="139" y="604" width="125" height="48" as="geometry" />
+          <mxGeometry x="369" y="614" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--7" value="快速炒散至凝固" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="702" width="173" height="48" as="geometry" />
+          <mxGeometry x="345" y="712" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--8" value="盛出炒蛋备用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="123" y="800" width="156" height="48" as="geometry" />
+          <mxGeometry x="353" y="810" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--9" value="锅中补少许油" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="123" y="899" width="157" height="48" as="geometry" />
+          <mxGeometry x="353" y="909" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--10" value="下番茄块翻炒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="123" y="997" width="156" height="48" as="geometry" />
+          <mxGeometry x="353" y="1007" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--11" value="炒至番茄变软出汁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="107" y="1096" width="189" height="48" as="geometry" />
+          <mxGeometry x="337" y="1106" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--12" value="倒入炒好的鸡蛋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1194" width="173" height="48" as="geometry" />
+          <mxGeometry x="345" y="1204" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--13" value="混合翻炒均匀" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="123" y="1292" width="156" height="48" as="geometry" />
+          <mxGeometry x="353" y="1302" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--14" value="加入盐， 糖调味" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="112" y="1391" width="178" height="48" as="geometry" />
+          <mxGeometry x="342" y="1401" width="178" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--15" value="出锅装盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="139" y="1489" width="125" height="48" as="geometry" />
+          <mxGeometry x="369" y="1499" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--16" value="结束， 享用美食" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="112" y="1588" width="178" height="48" as="geometry" />
+          <mxGeometry x="342" y="1598" width="178" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-e7ZAQbZGbHE_bvblTF--1" target="-e7ZAQbZGbHE_bvblTF--2">
           <mxGeometry relative="1" as="geometry">
@@ -60,28 +60,28 @@
         <mxCell id="-e7ZAQbZGbHE_bvblTF--18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-e7ZAQbZGbHE_bvblTF--2" target="-e7ZAQbZGbHE_bvblTF--3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="98" y="382" />
+              <mxPoint x="328" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-e7ZAQbZGbHE_bvblTF--2" target="-e7ZAQbZGbHE_bvblTF--4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="304" y="382" />
+              <mxPoint x="534" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="-e7ZAQbZGbHE_bvblTF--3" target="-e7ZAQbZGbHE_bvblTF--5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="98" y="480" />
+              <mxPoint x="328" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-e7ZAQbZGbHE_bvblTF--21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="-e7ZAQbZGbHE_bvblTF--4" target="-e7ZAQbZGbHE_bvblTF--5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="304" y="480" />
+              <mxPoint x="534" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
